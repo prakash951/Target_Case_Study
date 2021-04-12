@@ -39,6 +39,16 @@ Steps to follow to configure the notification system with 2 consumers
     
 2). Create a slack channel
     ![image](https://user-images.githubusercontent.com/6679672/109767910-3aa9c600-7c1e-11eb-9a53-496607e950b1.png)
+   
+3). Publishing the event
+    ![image](https://user-images.githubusercontent.com/6679672/114414646-a2174600-9bcc-11eb-9c39-8ac81aeb3c18.png)
+
+4). Consuming from Slack Consumer
+    ![image](https://user-images.githubusercontent.com/6679672/114414768-c410c880-9bcc-11eb-8718-dd7cb160fdac.png)
+
+5). Consuming the same events in gmail consumer
+    ![image](https://user-images.githubusercontent.com/6679672/114414964-e7d40e80-9bcc-11eb-93ee-daf1b9c1c121.png)
+
 
 
 
